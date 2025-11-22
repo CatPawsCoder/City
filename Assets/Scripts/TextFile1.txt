@@ -1,0 +1,12 @@
+
+
+float
+int
+string
+bool // 0 - false 1 - true 
+
+
+public float speed = 12.1f;
+public int size = 12;
+public string name = "Машинка";
+public bool gameOver = False;
